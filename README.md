@@ -1,2 +1,2 @@
 # Netflix Clone
-<img src="https://user-images.githubusercontent.com/69617120/194440273-39a5fd65-2a11-4aed-bed6-c179f5daa5a4.jpg" alt="Website Example Photo" width="990" height="1200"/>
+![netflix](https://user-images.githubusercontent.com/69617120/194441069-4bab1f3f-379c-4f9d-944c-a00b9444120f.jpg)
